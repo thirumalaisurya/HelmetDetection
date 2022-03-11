@@ -1,0 +1,7 @@
+names:
+- helmet
+- head
+- person
+nc: '3'
+train: D:/Thirumalai/72075/YOLO/train/images/train
+val: D:/Thirumalai/72075/YOLO/train/images/val
